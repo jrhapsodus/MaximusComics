@@ -2,11 +2,11 @@
   "BulletinLabel": "PREFACE\n\nThe spirit of Hallow’s Eve has struck Maximus Comics! \n\nFor those visiting, Welcome. This is a comic themed world about the ongoing adventures that befall us all within the pixels of VRChat. When I first joined VRChat I never imagined stepping into the vast array of places, people, and cultures that I did. Entire societies going to and fro. Some have developed their own language. \n\nAs I like to make things and enjoy being creative, I wanted to capture the many warm, loving, heart felt, but also heart crushing, moments and stories of the people here. And thus I started to Maximus Comics. A light hearted goofy take at our own selves.\n\nI wanted the stories of VR to be told in VR to and about those in VR. Thus was born this world. An extension of the adventures within VRChat. You will find throw backs, nerd chic,  quests, raid bosses, loot, adventure, table top gaming, and hopefully the release of many more stories and moments. \n\nHopefully as you adventure and discover the secrets surrounding the Cafe and Comic store, you really just lose yourself and feel the world jump off the pages a little. There was a lot of effort and care put into crafting some of the colors, tones, code, and effects that can be unlocked. \n\nI like classic halloween. Blinking bats on strings, fluorescent glow in the dark colors, black lights, fog machines, bubbly drinks, ghosts, ghouls, vampires, witches, and zombies. \n\nEnjoy, and if you get stuck adventuring, always roll for a perception check !\n\nVRChat and the people here have become a family to me and thus, makes this Comics world sort of a home to me. Halloween is one of my favorite times of the year, and if I could, this is how I would imagine decorating it. So I welcome all of you to come in, have a drink, relax, enjoy the festivities, put on some music, play some games, read some comics, and most importantly, spend it with loved ones, friends and family\n",
   "UpdatesLabel": "Change List: 9-25\n\nFixed Loot Drops\nThe Character Sheet quest is now a Group Sheet\nThe Names area has been expanded and textures laid out\nLoot Now dissipates after 60s\nAll Quests now have the same LootBox Chest\nAdded Imposter System\nThe Precious now does 3x damage to the raid boss\nAdded Imposter Encounter\nAdded Second Raid Kaiju\nCreated the Vault Quest\nCreated the Pumpkin Smashing Quest\nSpookly Can Now turn into a Shader Disk\nA hidden shader disk was added to the pumpkin patch\nSpookality Neon Signs Added to outside walls for light & decor\nThe Witch's Broom Of Flying +3 has been added\nScattered Decor and Halloween Sweets\nAlways Ongoing is improvements to culling, file size, and FPS\n",
   "Credits": {
-    "Assets": "",
-    "Shaders": "",
-    "Props": "",
-    "Tools": "",
-    "SpecialThanks": ""
+    "Assets": "These are the assets used\n\nCafe\nPizza Restaurant\nMine Bundle\nRealistic Cemetery\nCornMaze Sketchfab\n",
+    "Shaders": "These are the shaders used",
+    "Props": "These are the world props used",
+    "Tools": "These are the tools used",
+    "SpecialThanks": "Making Of Notes Go Here.   Custom Occlusion Culling. Custom WorldFX World Shader Hook. VRC Light Volumes w/ Poiyomi Pro. "
   },
   "comics": [
     {
