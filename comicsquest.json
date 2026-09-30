@@ -6,7 +6,7 @@
     "Shaders": "Some of the shaders here were ported from various web locations such as shadertoy and fragcoord.\nPlease bear with me as I find the source URLs.  \n\nShadertoy\t\t\thttps://shadertoy.com\nFragCoord, The Ultimate Tool\thttps://mini.gmshaders.com/p/fragcoord\n\n\nZippy Zaps and Starnest Remix,\tSnoopethDuckDuck,\thttps://www.shadertoy.com/view/tfGXDw\nSpider web audio,\t\tTom_Neverwinter,\thttps://www.shadertoy.com/view/t3ffR4\nCyberpunk cannabis eye,\t\tYasuo,\t\t\thttps://www.shadertoy.com/view/WfGGD1\nAndbin's First Smoke Cloud,\tandbin,\t\t\thttps://www.shadertoy.com/view/wcS3Dc\nDisco ripples,\t\t\tjblanper,\t\thttps://www.shadertoy.com/view/tsSXW3\nSauron's eye 0.0,\t\tsauron,\t\t\thttps://www.shadertoy.com/view/33cSW2\nLiquid Metal2,\t\t\twickiss,\t\thttps://www.shadertoy.com/view/wlffDf\nFast FBM Fire,\t\t\tnr4,\t\t\thttps://www.shadertoy.com/view/Dsc3R4\nSurveillance mosaic,\t\tfelipetovarhenao,\thttps://www.shadertoy.com/view/7tjSWy\nRorschach Ink Test,\t\txjorma,\t\t\thttps://www.shadertoy.com/view/wslcDf\nStar Nest,\t\t\tKali,\t\t\thttps://www.shadertoy.com/view/XlfGRj\n\t",
     "Props": "Here are the world asset props used in this world. <still compiling>\n\nVRC Blackboard\tSoyrma\thttps://jinxxy.com/Soyrma/VRCBlackboard\nBunny Cake Models\tRikaCreature\thttps://jinxxy.com/my/inventory/3973453863788217618\nSmileys Minecraft Inspired World Assets\tinsert_smiley\thttps://jinxxy.com/my/inventory/3966693216769541650\nTrophy\tToraba Store\thttps://toraba.booth.pm/items/6215258\n装飾用ストリングライト（String Lights）\tWinelight\thttps://winelight.booth.pm/items/7566108\nHalloween Sweets Set\tLupiNova (BOOTH)\n3Dモデル【ハロウィンクッキー】HalloweenCokkie\tおもちやさん (BOOTH)\nPumpkin Cat | VRChat\t<TBD>\nSilly String!\tSundae Lab (Gumroad)\nLow Poly Candy Corn (Free)\tSynsploit (Gumroad)\n【FBX GLB 3Color】レトロコンピューター セット\tF/A インダストリーズ\thttps://faindustries.booth.pm/items/6676198\n3DCG【vault_door】金庫室のドア\thiromu-3dcg (BOOTH)\nLuminous Jelly Veil\tはるさめ雑貨店 (BOOTH)\nCozy Asset Pack V2!\tAssets Deluxe (BOOTH)\nComputers/Servers 3D Asset Pack\ta bored blender artist (Gumroad)\nDrip Signs - ( Free prefab )\tAuntie Nova (Gumroad)\nNORIBEN LUNCH (BOOTH)\tLEDパネルシェーダー\nFairylight Glass x12\tToraba Store (BOOTH)\nAS-FeatherPen\tアトリエミオリ (BOOTH)\thttps://atelier-miori.booth.pm/items/8482207\nVRC Siphon Coffee\tさめのワークス (BOOTH)\nProTV 3.0 (beta) for VRChat\tGumroad\nFan-Made Destiny Engram Prop Pack\tNebula Animations (Gumroad)\nPaper Lanterns Pack\t<TBD>\nHalo Energy Sword (FREE | VRCFury)\tAl The Fox (/ UltrAmegaHappY )\nCustom Bodypillow Maker\tKadeko\thttps://kadeko.booth.pm/items/3455204\n[VRC] Coffee Set - MiniGreen\tMiniGreen\n掲示板 / Bulletin board\tアタラクシアプロジェクト\thttps://a-j-nefsi.booth.pm/items/3091262\n",
     "Tools": "Here are the tools used in the creation of this world. <still compiling>\n\nVRC Light Volumes by red_sim\thttps://github.com/REDSIM/VRCLightVolumes\nPoiyomi Pro by Poiyomi\t\thttps://pro.poiyomi.com/\nProTV by ArchiTechVR\t\thttps://protv.dev/\nVRCBilliards\t\t\thttps://github.com/VRCBilliards/vrcbce",
-    "SpecialThanks": "Making Of and Special Thanks... Chunked Occlusion Culling. WorldFX Shader Hook. VRC Light Volumes w/ Poiyomi Pro. "
+    "SpecialThanks": "Making Of Notes Go Here.   Custom Occlusion Culling. Custom WorldFX World Shader Hook. VRC Light Volumes w/ Poiyomi Pro. "
   },
   "comics": [
     {
@@ -581,7 +581,7 @@
       "internalComicID": 72,
       "DateReleased": "2026-9-15",
       "Strip#": 72,
-      "Title": "",
+      "Title": "Too Much of You",
       "AuthorNotes": "Patch shows up with other refugees at the Last Public Instance. His custom avatar patching renders him immune to the Imposters but also immune to scanning. The origins and nature of patch's avatar are unique. While in the updated security screen another Imposter is converted. Patch begins noticing a pattern to the outbreak and demonstrates through a form of self destruction the willingness to pay a cost for a greater good.",
       "ImageURL": "https://raw.githubusercontent.com/jrhapsodus/MaximusComics/main/72.png"
     },
@@ -589,9 +589,17 @@
       "internalComicID": 73,
       "DateReleased": "2026-9-15",
       "Strip#": 73,
-      "Title": "",
+      "Title": "Public",
       "AuthorNotes": "The idea of non optimized avatars as being one of the causes to a zombification of VR avatars seem ironically appropriate considering the vanity and typical anti-materialism themes it connotes. Patch shows his analytical, more methodological ways over the emotional hard stances of the crowds bumper sticker like dogma. I also grin at the idea that the hats are the one prop society as a whole was willing to part ways with. After all, now they can see their wonderful avatar hairs at the Crystal Mirror Den. Actually, my archtype imagery of a mirror world is this Frozen Elsa like ice castle made of crystals and mirror like reflections. Very shard like. I don't know if Crystal Mirror Den is the best name but I am sure there will be another one should its world arise. A bit of an easter egg in a ways, when I do montage scene cuts on the panels, I like to pick potential new areas. The strip of the two adventurers, one being mute and saying ... for hours to reveal the lol at the end. In that strip they step into the Crystal Mirror world as one of the adventures going by while still seeing the ...",
       "ImageURL": "https://raw.githubusercontent.com/jrhapsodus/MaximusComics/main/73.png"
-    }
+    },
+    {
+      "internalComicID": 74,
+      "DateReleased": "2026-9-29",
+      "Strip#": 74,
+      "Title": "Spookality Eve",
+      "AuthorNotes": "After rush jamming this world for the past 3 weeks, I finally submitted Maximus Comics to Spookality. I wasn't sure if I was going to make the deadline. It did get me thinking though. With all the horror themed worlds I have travelled, I always imagine that there is like A Spookality Eve, where fields of armored VRChat avatars lurk through the worlds like elves to stock all the worlds with flash lights and batteries. Including this one!",
+      "ImageURL": "https://raw.githubusercontent.com/jrhapsodus/MaximusComics/main/74.png"
+    }    
   ]
 }
