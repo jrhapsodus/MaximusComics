@@ -6,7 +6,7 @@
     "Shaders": "<size=200%>Still compiling links</size>\n\n<size=150%>Shadertoy\n</size>\nhttps://shadertoy.com\n\n<size=150%>FragCoord, The Ultimate Tool\n</size>\nhttps://mini.gmshaders.com/p/fragcoord\n\nZippy Zaps SnoopethDuckDuck\nhttps://www.shadertoy.com/view/tfGXDw\nSpider web audio Tom_Neverwinter\nhttps://www.shadertoy.com/view/t3ffR4\nCyberpunk cannabis eye Yasuo\nhttps://www.shadertoy.com/view/WfGGD1\nAndbin's First Smoke Cloud andbin\nhttps://www.shadertoy.com/view/wcS3Dc\nDisco ripples jblanper\nhttps://www.shadertoy.com/view/tsSXW3\nSauron's eye 0.0 sauron\nhttps://www.shadertoy.com/view/33cSW2\nLiquid Metal2 wickiss\nhttps://www.shadertoy.com/view/wlffDf\nFast FBM Fire nr4\nhttps://www.shadertoy.com/view/Dsc3R4\nSurveillance mosaic felipetovarhenao\nhttps://www.shadertoy.com/view/7tjSWy\nRorschach Ink Test xjorma\nhttps://www.shadertoy.com/view/wslcDf\nStar Nest Kali\nhttps://www.shadertoy.com/view/XlfGRj",
     "Props": "<size=150%>World Assets & Props </size>\n<still compiling>\n\n<size=60%>\nVRC Blackboard, Soyrma\n\thttps://jinxxy.com/Soyrma/VRCBlackboard\nBunny Cake Models, RikaCreature\n\thttps://jinxxy.com/my/inventory/3973453863788217618\nSmileys Minecraft Inspired World Assets, insert_smiley\n\thttps://jinxxy.com/my/inventory/3966693216769541650Trophy\nToraba Store\n\thttps://toraba.booth.pm/items/6215258\nString Lights, Winelight\n\thttps://winelight.booth.pm/items/7566108\nHalloween Sweets Set, LupiNova (BOOTH)\n\tpending link\n3D HalloweenCokkie, おもちやさん \n\tpending link\nPumpkin Cat | VRChat\n\tpending link\nSilly String!, Sundae Lab \n\tpending link\nLow Poly Candy Corn (Free), Synsploit\n\tpending link\nレトロコンピューター セット\n\tpending link\nF/A インダストリーズ\n\thttps://faindustries.booth.pm/items/6676198\n3DCG金庫室のドア, hiromu-3dcg \n\tpending link\nLuminous Jelly Veil, はるさめ雑貨店 \n\tpending link\nCozy Asset Pack V2! \n\tpending link\nComputers/Servers 3D Asset Pack, a bored blender artist \n\tpending link\nDrip Signs - ( Free prefab ), Auntie Nova \n\tpending link\nNORIBEN LUNCH (BOOTH), LED\n\tpending link\nパネルシェーダーFairylight Glass x12, Toraba Store \n\tpending link\nAS-FeatherPen, アトリエミオリ \n\thttps://atelier-miori.booth.pm/items/8482207VRC \nSiphon Coffee, さめのワークス \n\tpending link\nFan-Made Destiny Engram Prop Pack, Nebula Animations \n\tpending link\nPaper Lanterns Pack\n\tpending link\nHalo Energy Sword, Al The Fox \n\tpending link\nCustom Bodypillow Maker, Kadeko\n\thttps://kadeko.booth.pm/items/3455204\n[VRC] Coffee Set - MiniGreen, MiniGreen\n\tpending link\n掲示板 / Bulletin board, アタラクシアプロジェクト\n\thttps://a-j-nefsi.booth.pm/items/3091262\n</size>\n",
     "Tools": "Tools & Systems\n<still compiling>\n\nVRC Light Volumes by red_sim\n\thttps://github.com/REDSIM/VRCLightVolumes\nPoiyomi Pro by Poiyomi\n\thttps://pro.poiyomi.com/\nProTV by ArchiTechVR\n\thttps://protv.dev/\nVRCBilliards\n\thttps://github.com/VRCBilliards/vrcbce",
-    "SpecialThanks": "Making Of Notes Go Here.   Custom Occlusion Culling. Custom WorldFX World Shader Hook. VRC Light Volumes w/ Poiyomi Pro. "
+    "SpecialThanks": "Making Of Notes Go Here.   Custom Occlusion Culling. Custom WorldFX World Shader Hook. VRC Light Volumes w/ Poiyomi Pro."
   },
   "comics": [
     {
@@ -600,6 +600,14 @@
       "Title": "Spookality Eve",
       "AuthorNotes": "After rush jamming this world for the past 3 weeks, I finally submitted Maximus Comics to Spookality. I wasn't sure if I was going to make the deadline. It did get me thinking though. With all the horror themed worlds I have travelled, I always imagine that there is like A Spookality Eve, where fields of armored VRChat avatars lurk through the worlds like elves to stock all the worlds with flash lights and batteries. Including this one!",
       "ImageURL": "https://raw.githubusercontent.com/jrhapsodus/MaximusComics/main/74.png"
-    }    
+    },
+    {
+      "internalComicID": 75,
+      "DateReleased": "2026-10-03",
+      "Strip#": 75,
+      "Title": "Pheonix Down",
+      "AuthorNotes": "The soft block shadow realm is one of my favorite emotional abstractions in the comics. Shifting, uncertainty, the past. They all linger and swirl in horrifyingly twisted manifestations of imagery. While it is usually reserved for stories that involve the end of a relationship, I would like to think that sometimes, it can be a place of hope and rekindling. The emotional introspection brings fond memories of times together and sometimes, it is also a place to reconnect.",
+      "ImageURL": "https://raw.githubusercontent.com/jrhapsodus/MaximusComics/main/75.png"
+    }        
   ]
 }
